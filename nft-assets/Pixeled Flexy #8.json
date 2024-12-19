@@ -1,0 +1,14 @@
+{
+    "name": "PIXELED FLEXY #8",
+    "symbol": "PXLDFLXS",
+    "description": "A unique pixelated character of a stylilsh wrestler created by MollyylloM.",
+    "attributes": [
+      {"trait_type": "Background", "value": "Strawberry Milk Pink"},
+      {"trait_type": "Body", "value": "Tanned Skin"},
+      {"trait_type": "Outfit", "value": "Blue Jacket, Blue Pants, Blue Shoes, White T-Shirt & Dark Purple Scarf"},
+      {"trait_type": "Hair/Headwear", "value": "Blue Luchador Mask"},
+      {"trait_type": "Mouth/Face", "value": "Passion Red Lips"},
+      {"trait_type": "Eyes/Glasses", "value": "Square Dark Eyes"}
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeifrmrj5z5zdc7dalcjq4cdg6mqjos6ujhmum4cbubpqa4p4j47lju"
+  }

@@ -1,0 +1,14 @@
+{
+    "name": "PIXELED FLEXY #6",
+    "symbol": "PXLDFLXS",
+    "description": "A unique pixelated character of a weird spiritual guy created by MollyylloM.",
+    "attributes": [
+      {"trait_type": "Background", "value": "Grass Green Pop"},
+      {"trait_type": "Body", "value": "Milk Pale Skin"},
+      {"trait_type": "Outfit", "value": "Baby Blue V-Neck T-Shirt, Light Brown Shorts & White Sneakers"},
+      {"trait_type": "Hair/Headwear", "value": "Long Short Redhead"},
+      {"trait_type": "Mouth/Face", "value": "Light Pink Lips"},
+      {"trait_type": "Eyes/Glasses", "value": "Wide Open Happy Eyes"}
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeih5db62orwe47tgplkh4p6kwnooqucvy5c4ccoudqbkghoiydnzpu"
+  }

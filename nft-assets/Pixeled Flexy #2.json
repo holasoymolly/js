@@ -1,0 +1,14 @@
+{
+    "name": "PIXELED FLEXY #2",
+    "symbol": "PXLDFLXS",
+    "description": "A unique pixelated character of a dandy styled guy created by MollyylloM.",
+    "attributes": [
+      {"trait_type": "Background", "value": "Cyan Sky Blue"},
+      {"trait_type": "Body", "value": "Bronze Skin"},
+      {"trait_type": "Outfit", "value": "Orange Bow Tie Suit, White Shirt & Orange Fancy Shoes to Match"},
+      {"trait_type": "Hair/Headwear", "value": "Orange Dandy Hat"},
+      {"trait_type": "Mouth/Face", "value": "Dark Bronze Lips"},
+      {"trait_type": "Eyes/Glasses", "value": "Pumped Up Curious Eyes"}
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeic366ud4jkdcpgavlxubocqdyb4udlfxtweaqi6favyovz2bwaqwm"
+  }

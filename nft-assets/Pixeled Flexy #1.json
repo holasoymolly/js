@@ -1,0 +1,14 @@
+{
+    "name": "PIXELED FLEXY #1",
+    "symbol": "PXLDFLXS",
+    "description": "A unique pixelated character of a cool minding his own business guy created by MollyylloM.",
+    "attributes": [
+      {"trait_type": "Background", "value": "Hot Summer Red"},
+      {"trait_type": "Body", "value": "Laid Back Guy"},
+      {"trait_type": "Outfit", "value": "Smiley Face White Tank Top, Neon Purple Shorts & Orange Sneakers"},
+      {"trait_type": "Hair/Headwear", "value": "Punky Teal Blue Butch Cut"},
+      {"trait_type": "Mouth/Face", "value": "Purple Lips"},
+      {"trait_type": "Eyes/Glasses", "value": "Swaggy Sunglasses"}
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeiall2duysdgsk6uirjevoweqmyhdc5gmdx7zfxzit4jlngeyqr3nu"
+  }

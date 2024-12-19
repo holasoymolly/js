@@ -1,0 +1,14 @@
+{
+    "name": "PIXELED FLEXY #5",
+    "symbol": "PXLDFLXS",
+    "description": "A unique pixelated character of a basketball player created by MollyylloM.",
+    "attributes": [
+      {"trait_type": "Background", "value": "Almost Neon Apple Green"},
+      {"trait_type": "Body", "value": "Pink Delicate Skin"},
+      {"trait_type": "Outfit", "value": "Blue Basketball Uniform & Blue Sneakers to Match"},
+      {"trait_type": "Hair/Headwear", "value": "Spikey Gold Hair"},
+      {"trait_type": "Mouth/Face", "value": "Pinky Pink Lips"},
+      {"trait_type": "Eyes/Glasses", "value": "Shy Dark Eyes"}
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeifpxgskj5ac7xlkdts4ormiwwty2yr3miuxq6vplz33psim6e2hvi"
+  }

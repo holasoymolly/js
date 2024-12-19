@@ -1,0 +1,14 @@
+{
+    "name": "PIXELED FLEXY #4",
+    "symbol": "PXLDFLXS",
+    "description": "A unique pixelated character of a turtle neck kind of guy created by MollyylloM.",
+    "attributes": [
+      {"trait_type": "Background", "value": "Brick Orange"},
+      {"trait_type": "Body", "value": "Kinda Tanned Skin"},
+      {"trait_type": "Outfit", "value": "White Turtle Neck Top, Neon Purple Pants & Dark Purple Sneakers"},
+      {"trait_type": "Hair/Headwear", "value": "White Baseball Hat"},
+      {"trait_type": "Mouth/Face", "value": "Dark Orange Lips"},
+      {"trait_type": "Eyes/Glasses", "value": "Blue Small Eyes"}
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeibcj6h4yzwnfs4d2uf3qiqn5m3rdhi7cellvdw7346t4bron4kitu"
+  }

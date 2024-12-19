@@ -1,0 +1,14 @@
+{
+    "name": "PIXELED FLEXY #3",
+    "symbol": "PXLDFLXS",
+    "description": "A unique pixelated character of a chill alien created by MollyylloM.",
+    "attributes": [
+      {"trait_type": "Background", "value": "Baby Blue River"},
+      {"trait_type": "Body", "value": "Green Skin"},
+      {"trait_type": "Outfit", "value": "Hot Pink Joggers & Comfy Chanclas"},
+      {"trait_type": "Hair/Headwear", "value": "Bald"},
+      {"trait_type": "Mouth/Face", "value": "Dark Green Lips"},
+      {"trait_type": "Eyes/Glasses", "value": "Big Deep Dark Eyes"}
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeihtzfufyasyx4mmjpkwsxcc7tl5gvga3qnlxzi5an62bwnh3k6zbq"
+  }

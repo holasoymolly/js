@@ -1,0 +1,14 @@
+{
+    "name": "PIXELED FLEXY #7",
+    "symbol": "PXLDFLXS",
+    "description": "A unique pixelated character of a cool musician guy created by MollyylloM.",
+    "attributes": [
+      {"trait_type": "Background", "value": "spanish Lime Pink"},
+      {"trait_type": "Body", "value": "Caribbean Skin"},
+      {"trait_type": "Outfit", "value": "Purple Jumpsuit"},
+      {"trait_type": "Hair/Headwear", "value": "Bald"},
+      {"trait_type": "Mouth/Face", "value": "Light Purple lips"},
+      {"trait_type": "Eyes/Glasses", "value": "Small Smoking Eyes"}
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeicvie545gl6atb3h6nofvqbmvbspte62ocfjiacnpwi4rczyk6riu"
+  }

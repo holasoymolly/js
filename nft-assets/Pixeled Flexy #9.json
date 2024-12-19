@@ -1,0 +1,14 @@
+{
+    "name": "PIXELED FLEXY #9",
+    "symbol": "PXLDFLXS",
+    "description": "A unique pixelated character of a cool 80's hip hop guy created by MollyylloM.",
+    "attributes": [
+      {"trait_type": "Background", "value": "Vanilla Cake Cream"},
+      {"trait_type": "Body", "value": "Purple Skin"},
+      {"trait_type": "Outfit", "value": "Neon Pink V-Neck Sexy Tank Top, Neon Green Pants & Neon Green Sneakers"},
+      {"trait_type": "Hair/Headwear", "value": "Flat Top Dark Purple Hair"},
+      {"trait_type": "Mouth/Face", "value": "Light Purple Lips"},
+      {"trait_type": "Eyes/Glasses", "value": "Tiny Eyes"}
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/bafkreie3mqxejjlxzlobkongccopiu442ntwuxsnsz34vot6xsy5lusprq"
+  }

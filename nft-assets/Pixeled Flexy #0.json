@@ -1,0 +1,14 @@
+{
+    "name": "PIXELED FLEXY #0",
+    "symbol": "PXLDFLXS",
+    "description": "A unique pixelated character of just a regular guy having a good day created by MollyylloM.",
+    "attributes": [
+      {"trait_type": "Background", "value": "Passion Fruit Orange"},
+      {"trait_type": "Body", "value": "Blushed Guy"},
+      {"trait_type": "Outfit", "value": "Aqua T-Shirt, Grey Jeans & Purple Sneakers"},
+      {"trait_type": "Hair/Headwear", "value": "Purple Short Haircut"},
+      {"trait_type": "Mouth/Face", "value": "Pink Lips"},
+      {"trait_type": "Eyes/Glasses", "value": "Wide Open & Dark Purple"}
+    ],
+    "image": "https://gateway.pinata.cloud/ipfs/bafybeidj5fnoac3t6ojjbzitv7rmi4nxg2tuqa4vy5kqxu6a6onj7376tq"
+  }
