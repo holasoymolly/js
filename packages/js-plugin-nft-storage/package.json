@@ -56,5 +56,11 @@
     "entryPoint": "./src/index.ts",
     "readmeFile": "./README.md",
     "displayName": "js-plugin-nft-storage"
+  },
+  "devDependencies": {
+    "@irys/query": "^0.0.9",
+    "@types/lodash": "^4.17.13",
+    "@types/node": "18",
+    "typescript": "~5.7.2"
   }
 }
